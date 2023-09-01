@@ -2,5 +2,5 @@
 
 int main()
 {
-   printf("nan veelvenendru ninaithayo!");
+   printf("ennai alikka evanada varuvan!");
 }
