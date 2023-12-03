@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("Hi village!");
+    printf("Hi Jingi");
     return 0;
 }
